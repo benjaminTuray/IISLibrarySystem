@@ -1,0 +1,6 @@
+@IISLibrarySystem_HostAddress = http://localhost:5073
+
+GET {{IISLibrarySystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
